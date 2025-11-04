@@ -10,18 +10,18 @@ PHP 8.1 and later.
 
 ### Composer
 
-To install the bindings via [Composer](https://getcomposer.org/), add the following to `composer.json`:
+To install the bindings via [Composer](https://getcomposer.org/):
+
+```bash
+composer require flipeaz342/ubiqfy-php-sdk
+```
+
+Or, add the following to `composer.json`:
 
 ```json
 {
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/GIT_USER_ID/GIT_REPO_ID.git"
-    }
-  ],
   "require": {
-    "GIT_USER_ID/GIT_REPO_ID": "*@dev"
+    "flipeaz342/ubiqfy-php-sdk": "^1.0"
   }
 }
 ```
