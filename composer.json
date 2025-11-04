@@ -1,5 +1,5 @@
 {
-    "name": "openapi/ubiqfy-php-sdk",
+    "name": "felipe/ubiqfy-php-sdk",
     "description": "PHP SDK for the Ubiqfy API, providing access to mobile products, transactions, and international services.",
     "keywords": [
         "openapitools",
